@@ -1,0 +1,24 @@
+Datasheet for the 24C02A EEPROM Memory
+https://www.alldatasheet.es/datasheet-pdf/pdf/74863/MICROCHIP/24C02A.html
+
+I2C Scan to check for device addresses
+https://gist.github.com/projetsdiy/f4330be62589ab9b3da1a4eacc6b6b1c
+
+Printer Chip Reset discussion in Arduino forum
+https://forum.arduino.cc/t/resetting-printer-cartridge-chip-using-arduino-uno/927489
+https://forum.arduino.cc/t/reset-toner-chip-from-my-printer/1237757/5
+https://forum.arduino.cc/t/read-i2c-printer-chips/666054/6
+https://forum.arduino.cc/t/mega2560-and-eeprom-via-i2c-problem/136857/6
+https://www.reddit.com/r/AskElectronics/comments/12ltta9/any_advice_on_how_to_read_this_eeprom_chip_with/?rdt=62655
+
+Inspiration
+
+https://github.com/lugu/toner_chip_reset
+https://github.com/seurat-atreides/RICOH_SP-204_Toner-Chip-Reset?tab=readme-ov-file
+https://github.com/MarksBench/mb_24x256_512/blob/main/mb_24x256_512.py
+https://www.youtube.com/watch?v=Wwd5UCi9Huw&list=WL&index=1 (DIY Tinker - How to hack Ricoh Aficio toner cartridge chip using Arduino Uno - program 24c02 EEPROM I2C)
+
+Micropyhton Documentation
+
+https://en.m.wikiversity.org/wiki/Python_Concepts/Bytes_objects_and_Bytearrays#:~:text=A%20bytes%20object%20is%20an,conceptually%20similar%20to%20a%20string.&text=of%20a%20bytes%20object%20is,%E2%89%A4%200%20b%201111%20_%201111.
+https://docs.micropython.org/en/latest/library/machine.I2C.html 

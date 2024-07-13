@@ -1,0 +1,516 @@
+Posicion nro: 0
+b'F'
+Posicion nro: 1
+b'\x01'
+Posicion nro: 2
+b'\x01'
+Posicion nro: 3
+b'\x02'
+Posicion nro: 4
+b'\x0e'
+Posicion nro: 5
+b'\x01'
+Posicion nro: 6
+b'\x01'
+Posicion nro: 7
+b'\x00'
+Posicion nro: 8
+b'd'
+Posicion nro: 9
+b'\x00'
+Posicion nro: 10
+b'4'
+Posicion nro: 11
+b'0'
+Posicion nro: 12
+b'8'
+Posicion nro: 13
+b'2'
+Posicion nro: 14
+b'8'
+Posicion nro: 15
+b'4'
+Posicion nro: 16
+b'#'
+Posicion nro: 17
+b'\x11'
+Posicion nro: 18
+b'R'
+Posicion nro: 19
+b'G'
+Posicion nro: 20
+b'\x08'
+Posicion nro: 21
+b'\x00'
+Posicion nro: 22
+b'1'
+Posicion nro: 23
+b'X'
+Posicion nro: 24
+b'\x00'
+Posicion nro: 25
+b'\x00'
+Posicion nro: 26
+b'\x00'
+Posicion nro: 27
+b'\x00'
+Posicion nro: 28
+b'\x00'
+Posicion nro: 29
+b'\x00'
+Posicion nro: 30
+b'\x00'
+Posicion nro: 31
+b'\x00'
+Posicion nro: 32
+b'\x00'
+Posicion nro: 33
+b'\x00'
+Posicion nro: 34
+b'\x00'
+Posicion nro: 35
+b'\x00'
+Posicion nro: 36
+b'\x00'
+Posicion nro: 37
+b'\x00'
+Posicion nro: 38
+b'\x00'
+Posicion nro: 39
+b'\x00'
+Posicion nro: 40
+b'\x00'
+Posicion nro: 41
+b'\x00'
+Posicion nro: 42
+b'\x00'
+Posicion nro: 43
+b'\x00'
+Posicion nro: 44
+b'd'
+Posicion nro: 45
+b'\x00'
+Posicion nro: 46
+b'\x00'
+Posicion nro: 47
+b'\x00'
+Posicion nro: 48
+b'\x00'
+Posicion nro: 49
+b'\x00'
+Posicion nro: 50
+b'\x00'
+Posicion nro: 51
+b'\x00'
+Posicion nro: 52
+b'\x00'
+Posicion nro: 53
+b'\x00'
+Posicion nro: 54
+b'\x00'
+Posicion nro: 55
+b'\x00'
+Posicion nro: 56
+b'\x00'
+Posicion nro: 57
+b'\x00'
+Posicion nro: 58
+b'\x00'
+Posicion nro: 59
+b'\x00'
+Posicion nro: 60
+b'\x00'
+Posicion nro: 61
+b'\x00'
+Posicion nro: 62
+b'\x00'
+Posicion nro: 63
+b'\x00'
+Posicion nro: 64
+b'\x00'
+Posicion nro: 65
+b'\x00'
+Posicion nro: 66
+b'\x00'
+Posicion nro: 67
+b'\x00'
+Posicion nro: 68
+b'\x00'
+Posicion nro: 69
+b'\x00'
+Posicion nro: 70
+b'\x00'
+Posicion nro: 71
+b'\x00'
+Posicion nro: 72
+b'\x00'
+Posicion nro: 73
+b'\x00'
+Posicion nro: 74
+b'\x00'
+Posicion nro: 75
+b'\x00'
+Posicion nro: 76
+b'\x00'
+Posicion nro: 77
+b'\x00'
+Posicion nro: 78
+b'\x00'
+Posicion nro: 79
+b'\x00'
+Posicion nro: 80
+b'\x00'
+Posicion nro: 81
+b'\x00'
+Posicion nro: 82
+b'\x00'
+Posicion nro: 83
+b'\x00'
+Posicion nro: 84
+b'\x00'
+Posicion nro: 85
+b'\x00'
+Posicion nro: 86
+b'\x00'
+Posicion nro: 87
+b'\x00'
+Posicion nro: 88
+b'\x00'
+Posicion nro: 89
+b'\x00'
+Posicion nro: 90
+b'\x00'
+Posicion nro: 91
+b'\x00'
+Posicion nro: 92
+b'\x00'
+Posicion nro: 93
+b'\x00'
+Posicion nro: 94
+b'\x00'
+Posicion nro: 95
+b'\x00'
+Posicion nro: 96
+b'\x00'
+Posicion nro: 97
+b'\x00'
+Posicion nro: 98
+b'\x00'
+Posicion nro: 99
+b'\x00'
+Posicion nro: 100
+b'\x00'
+Posicion nro: 101
+b'\x00'
+Posicion nro: 102
+b'\x00'
+Posicion nro: 103
+b'\x00'
+Posicion nro: 104
+b'\x00'
+Posicion nro: 105
+b'\x00'
+Posicion nro: 106
+b'\x00'
+Posicion nro: 107
+b'\x00'
+Posicion nro: 108
+b'\x00'
+Posicion nro: 109
+b'\x00'
+Posicion nro: 110
+b'\x00'
+Posicion nro: 111
+b'\x00'
+Posicion nro: 112
+b'\x00'
+Posicion nro: 113
+b'\x00'
+Posicion nro: 114
+b'\x00'
+Posicion nro: 115
+b'\x00'
+Posicion nro: 116
+b'\x00'
+Posicion nro: 117
+b'\x00'
+Posicion nro: 118
+b'\x00'
+Posicion nro: 119
+b'\x00'
+Posicion nro: 120
+b'\x00'
+Posicion nro: 121
+b'\x00'
+Posicion nro: 122
+b'\x00'
+Posicion nro: 123
+b'\x00'
+Posicion nro: 124
+b'\x00'
+Posicion nro: 125
+b'\x00'
+Posicion nro: 126
+b'\x00'
+Posicion nro: 127
+b'\x00'
+Posicion nro: 128
+b'\xff'
+Posicion nro: 129
+b'\xff'
+Posicion nro: 130
+b'\xff'
+Posicion nro: 131
+b'\xff'
+Posicion nro: 132
+b'\xff'
+Posicion nro: 133
+b'\xff'
+Posicion nro: 134
+b'\xff'
+Posicion nro: 135
+b'\xff'
+Posicion nro: 136
+b'\xff'
+Posicion nro: 137
+b'\xff'
+Posicion nro: 138
+b'\xff'
+Posicion nro: 139
+b'\xff'
+Posicion nro: 140
+b'\xff'
+Posicion nro: 141
+b'\xff'
+Posicion nro: 142
+b'\xff'
+Posicion nro: 143
+b'\xff'
+Posicion nro: 144
+b'\xff'
+Posicion nro: 145
+b'\xff'
+Posicion nro: 146
+b'\xff'
+Posicion nro: 147
+b'\xff'
+Posicion nro: 148
+b'\xff'
+Posicion nro: 149
+b'\xff'
+Posicion nro: 150
+b'\xff'
+Posicion nro: 151
+b'\xff'
+Posicion nro: 152
+b'\xff'
+Posicion nro: 153
+b'\xff'
+Posicion nro: 154
+b'\xff'
+Posicion nro: 155
+b'\xff'
+Posicion nro: 156
+b'\xff'
+Posicion nro: 157
+b'\xff'
+Posicion nro: 158
+b'\xff'
+Posicion nro: 159
+b'\xff'
+Posicion nro: 160
+b'\xff'
+Posicion nro: 161
+b'\xff'
+Posicion nro: 162
+b'\xff'
+Posicion nro: 163
+b'\xff'
+Posicion nro: 164
+b'\xff'
+Posicion nro: 165
+b'\xff'
+Posicion nro: 166
+b'\xff'
+Posicion nro: 167
+b'\xff'
+Posicion nro: 168
+b'\xff'
+Posicion nro: 169
+b'\xff'
+Posicion nro: 170
+b'\xff'
+Posicion nro: 171
+b'\xff'
+Posicion nro: 172
+b'\xff'
+Posicion nro: 173
+b'\xff'
+Posicion nro: 174
+b'\xff'
+Posicion nro: 175
+b'\xff'
+Posicion nro: 176
+b'\xff'
+Posicion nro: 177
+b'\xff'
+Posicion nro: 178
+b'\xff'
+Posicion nro: 179
+b'\xff'
+Posicion nro: 180
+b'\xff'
+Posicion nro: 181
+b'\xff'
+Posicion nro: 182
+b'\xff'
+Posicion nro: 183
+b'\xff'
+Posicion nro: 184
+b'\xff'
+Posicion nro: 185
+b'\xff'
+Posicion nro: 186
+b'\xff'
+Posicion nro: 187
+b'\xff'
+Posicion nro: 188
+b'\xff'
+Posicion nro: 189
+b'\xff'
+Posicion nro: 190
+b'\xff'
+Posicion nro: 191
+b'\xff'
+Posicion nro: 192
+b'\xff'
+Posicion nro: 193
+b'\xff'
+Posicion nro: 194
+b'\xff'
+Posicion nro: 195
+b'\xff'
+Posicion nro: 196
+b'\xff'
+Posicion nro: 197
+b'\xff'
+Posicion nro: 198
+b'\xff'
+Posicion nro: 199
+b'\xff'
+Posicion nro: 200
+b'\xff'
+Posicion nro: 201
+b'\xff'
+Posicion nro: 202
+b'\xff'
+Posicion nro: 203
+b'\xff'
+Posicion nro: 204
+b'\xff'
+Posicion nro: 205
+b'\xff'
+Posicion nro: 206
+b'\xff'
+Posicion nro: 207
+b'\xff'
+Posicion nro: 208
+b'\xff'
+Posicion nro: 209
+b'\xff'
+Posicion nro: 210
+b'\xff'
+Posicion nro: 211
+b'\xff'
+Posicion nro: 212
+b'\xff'
+Posicion nro: 213
+b'\xff'
+Posicion nro: 214
+b'\xff'
+Posicion nro: 215
+b'\xff'
+Posicion nro: 216
+b'\xff'
+Posicion nro: 217
+b'\xff'
+Posicion nro: 218
+b'\xff'
+Posicion nro: 219
+b'\xff'
+Posicion nro: 220
+b'\xff'
+Posicion nro: 221
+b'\xff'
+Posicion nro: 222
+b'\xff'
+Posicion nro: 223
+b'\xff'
+Posicion nro: 224
+b'\xff'
+Posicion nro: 225
+b'\xff'
+Posicion nro: 226
+b'\xff'
+Posicion nro: 227
+b'\xff'
+Posicion nro: 228
+b'\xff'
+Posicion nro: 229
+b'\xff'
+Posicion nro: 230
+b'\xff'
+Posicion nro: 231
+b'\xff'
+Posicion nro: 232
+b'\xff'
+Posicion nro: 233
+b'\xff'
+Posicion nro: 234
+b'\xff'
+Posicion nro: 235
+b'\xff'
+Posicion nro: 236
+b'\xff'
+Posicion nro: 237
+b'\xff'
+Posicion nro: 238
+b'\xff'
+Posicion nro: 239
+b'\xff'
+Posicion nro: 240
+b'\xff'
+Posicion nro: 241
+b'\xff'
+Posicion nro: 242
+b'\xff'
+Posicion nro: 243
+b'\xff'
+Posicion nro: 244
+b'\xff'
+Posicion nro: 245
+b'\xff'
+Posicion nro: 246
+b'\xff'
+Posicion nro: 247
+b'\xff'
+Posicion nro: 248
+b'\xff'
+Posicion nro: 249
+b'\xff'
+Posicion nro: 250
+b'\xff'
+Posicion nro: 251
+b'\xff'
+Posicion nro: 252
+b'\xff'
+Posicion nro: 253
+b'\xff'
+Posicion nro: 254
+b'\xff'
+Posicion nro: 255
+b'\xff'
+
+Memory dump as a List:
+
+[b'F', b'\x01', b'\x01', b'\x02', b'\x0e', b'\x01', b'\x01', b'\x00', b'd', b'\x00', b'4', b'0', b'8', b'2', b'8', b'4', b'#', b'\x11', b'R', b'G', b'\x08', b'\x00', b'1', b'X', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'd', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\x00', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff', b'\xff']
